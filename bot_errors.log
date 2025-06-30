@@ -1,0 +1,461 @@
+2025-06-28 01:28:42,992 - __main__ - INFO - Бот успішно запущений
+2025-06-28 01:28:43,163 - aiogram.dispatcher - INFO - Start polling
+2025-06-28 01:28:43,216 - aiogram.dispatcher - INFO - Run polling for bot @pulsdelivery_la_bot id=7787193570 - 'Pulse Delivery'
+2025-06-28 01:29:00,763 - aiogram.event - INFO - Update id=658431466 is handled. Duration 334 ms by bot id=7787193570
+2025-06-28 01:29:04,009 - aiogram.event - INFO - Update id=658431467 is handled. Duration 302 ms by bot id=7787193570
+2025-06-28 01:29:06,527 - aiogram.event - INFO - Update id=658431468 is handled. Duration 104 ms by bot id=7787193570
+2025-06-28 01:29:10,964 - aiogram.event - INFO - Update id=658431469 is handled. Duration 116 ms by bot id=7787193570
+2025-06-28 01:29:14,990 - aiogram.event - INFO - Update id=658431470 is handled. Duration 99 ms by bot id=7787193570
+2025-06-28 01:29:20,706 - aiogram.event - INFO - Update id=658431471 is handled. Duration 108 ms by bot id=7787193570
+2025-06-28 01:29:21,770 - aiogram.event - INFO - Update id=658431472 is handled. Duration 101 ms by bot id=7787193570
+2025-06-28 01:29:23,113 - aiogram.event - INFO - Update id=658431473 is handled. Duration 424 ms by bot id=7787193570
+2025-06-28 01:29:25,689 - aiogram.event - INFO - Update id=658431474 is handled. Duration 680 ms by bot id=7787193570
+2025-06-28 01:29:27,490 - aiogram.event - INFO - Update id=658431475 is handled. Duration 415 ms by bot id=7787193570
+2025-06-28 01:29:29,676 - aiogram.event - INFO - Update id=658431476 is handled. Duration 301 ms by bot id=7787193570
+2025-06-28 01:29:32,069 - __main__ - ERROR - Не вдалося відправити стікер: Telegram server says - Bad Request: wrong remote file identifier specified: can't unserialize it
+2025-06-28 01:29:32,396 - aiogram.event - INFO - Update id=658431477 is handled. Duration 994 ms by bot id=7787193570
+2025-06-28 01:29:48,120 - aiogram.event - INFO - Update id=658431478 is handled. Duration 454 ms by bot id=7787193570
+2025-06-28 01:29:52,033 - aiogram.event - INFO - Update id=658431479 is handled. Duration 237 ms by bot id=7787193570
+2025-06-28 01:29:59,344 - __main__ - ERROR - Не вдалося відправити стікер клієнту: Telegram server says - Bad Request: wrong remote file identifier specified: can't unserialize it
+2025-06-28 01:29:59,483 - aiogram.event - INFO - Update id=658431480 is handled. Duration 508 ms by bot id=7787193570
+2025-06-28 01:51:00,189 - __main__ - INFO - Бот успішно запущений
+2025-06-28 01:51:00,371 - aiogram.dispatcher - INFO - Start polling
+2025-06-28 01:51:00,423 - aiogram.dispatcher - INFO - Run polling for bot @pulsdelivery_la_bot id=7787193570 - 'Pulse Delivery'
+2025-06-28 01:51:14,101 - aiogram.event - INFO - Update id=658431481 is handled. Duration 253 ms by bot id=7787193570
+2025-06-28 01:51:19,593 - aiogram.event - INFO - Update id=658431482 is handled. Duration 114 ms by bot id=7787193570
+2025-06-28 01:51:21,417 - aiogram.event - INFO - Update id=658431483 is handled. Duration 113 ms by bot id=7787193570
+2025-06-28 01:51:24,856 - aiogram.event - INFO - Update id=658431484 is handled. Duration 121 ms by bot id=7787193570
+2025-06-28 01:51:25,853 - aiogram.event - INFO - Update id=658431485 is handled. Duration 113 ms by bot id=7787193570
+2025-06-28 01:51:27,179 - aiogram.event - INFO - Update id=658431486 is handled. Duration 407 ms by bot id=7787193570
+2025-06-28 01:51:29,350 - aiogram.event - INFO - Update id=658431487 is handled. Duration 613 ms by bot id=7787193570
+2025-06-28 01:51:30,633 - aiogram.event - INFO - Update id=658431488 is handled. Duration 387 ms by bot id=7787193570
+2025-06-28 01:51:31,871 - aiogram.event - INFO - Update id=658431489 is handled. Duration 306 ms by bot id=7787193570
+2025-06-28 01:51:33,524 - __main__ - ERROR - Не вдалося відправити стікер success: Telegram server says - Bad Request: wrong remote file identifier specified: can't unserialize it
+2025-06-28 01:51:33,872 - aiogram.event - INFO - Update id=658431490 is handled. Duration 988 ms by bot id=7787193570
+2025-06-28 01:51:41,812 - __main__ - ERROR - Не вдалося відправити стікер accepted: Telegram server says - Bad Request: wrong remote file identifier specified: can't unserialize it
+2025-06-28 01:51:41,959 - aiogram.event - INFO - Update id=658431491 is handled. Duration 485 ms by bot id=7787193570
+2025-06-28 01:51:46,680 - aiogram.event - INFO - Update id=658431492 is handled. Duration 395 ms by bot id=7787193570
+2025-06-28 01:51:51,476 - aiogram.event - INFO - Update id=658431493 is handled. Duration 390 ms by bot id=7787193570
+2025-06-28 01:51:54,583 - aiogram.event - INFO - Update id=658431494 is handled. Duration 119 ms by bot id=7787193570
+2025-06-28 01:52:11,794 - aiogram.event - INFO - Update id=658431495 is handled. Duration 115 ms by bot id=7787193570
+2025-06-28 01:52:13,947 - aiogram.event - INFO - Update id=658431496 is handled. Duration 264 ms by bot id=7787193570
+2025-06-28 01:52:14,904 - aiogram.event - INFO - Update id=658431497 is handled. Duration 280 ms by bot id=7787193570
+2025-06-28 01:52:16,398 - aiogram.event - INFO - Update id=658431498 is handled. Duration 281 ms by bot id=7787193570
+2025-06-28 01:52:19,512 - aiogram.event - INFO - Update id=658431499 is handled. Duration 399 ms by bot id=7787193570
+2025-06-28 01:52:20,836 - __main__ - ERROR - Помилка підтвердження повторення замовлення: 1 validation error for EditMessageText
+reply_markup
+  Input should be a valid dictionary or instance of InlineKeyboardMarkup [type=model_type, input_value=ReplyKeyboardMarkup(keybo...er=None, selective=None), input_type=ReplyKeyboardMarkup]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+2025-06-28 01:52:20,998 - aiogram.event - INFO - Update id=658431500 is not handled. Duration 393 ms by bot id=7787193570
+2025-06-28 01:52:20,999 - aiogram.event - ERROR - Cause exception while process update id=658431500 by bot id=7787193570
+ValidationError: 1 validation error for EditMessageText
+reply_markup
+  Input should be a valid dictionary or instance of InlineKeyboardMarkup [type=model_type, input_value=ReplyKeyboardMarkup(keybo...er=None, selective=None), input_type=ReplyKeyboardMarkup]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+Traceback (most recent call last):
+  File "C:\Users\Евгений\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Евгений\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\Евгений\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Евгений\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Евгений\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Евгений\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Евгений\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Евгений\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Евгений\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Евгений\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Евгений\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Евгений\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Евгений\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Евгений\Desktop\BOT4\bot.py", line 1509, in confirm_repeat_order
+    await callback.message.edit_text(
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        "❌ Не вдалося повторити замовлення. Спробуйте пізніше.",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        reply_markup=main_menu_kb()
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Евгений\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\types\message.py", line 3634, in edit_text
+    return EditMessageText(
+           ~~~~~~~~~~~~~~~^
+        chat_id=self.chat.id,
+        ^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    ).as_(self._bot)
+    ^
+  File "C:\Users\Евгений\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for EditMessageText
+reply_markup
+  Input should be a valid dictionary or instance of InlineKeyboardMarkup [type=model_type, input_value=ReplyKeyboardMarkup(keybo...er=None, selective=None), input_type=ReplyKeyboardMarkup]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+2025-06-28 01:52:58,179 - __main__ - ERROR - Помилка скасування повторення замовлення: 1 validation error for EditMessageText
+reply_markup
+  Input should be a valid dictionary or instance of InlineKeyboardMarkup [type=model_type, input_value=ReplyKeyboardMarkup(keybo...er=None, selective=None), input_type=ReplyKeyboardMarkup]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+2025-06-28 01:52:58,275 - aiogram.event - INFO - Update id=658431501 is handled. Duration 114 ms by bot id=7787193570
+2025-06-28 01:53:02,663 - aiogram.event - INFO - Update id=658431502 is handled. Duration 223 ms by bot id=7787193570
+2025-06-28 01:53:10,477 - aiogram.event - INFO - Update id=658431503 is handled. Duration 104 ms by bot id=7787193570
+2025-06-28 01:53:12,150 - aiogram.event - INFO - Update id=658431504 is handled. Duration 120 ms by bot id=7787193570
+2025-06-28 01:53:17,426 - aiogram.event - INFO - Update id=658431505 is handled. Duration 106 ms by bot id=7787193570
+2025-06-28 01:53:18,438 - aiogram.event - INFO - Update id=658431506 is handled. Duration 106 ms by bot id=7787193570
+2025-06-28 01:53:19,693 - aiogram.event - INFO - Update id=658431507 is handled. Duration 386 ms by bot id=7787193570
+2025-06-28 01:53:22,085 - aiogram.event - INFO - Update id=658431508 is handled. Duration 507 ms by bot id=7787193570
+2025-06-28 01:53:23,334 - aiogram.event - INFO - Update id=658431509 is handled. Duration 376 ms by bot id=7787193570
+2025-06-28 01:53:24,422 - aiogram.event - INFO - Update id=658431510 is handled. Duration 314 ms by bot id=7787193570
+2025-06-28 01:53:26,499 - __main__ - ERROR - Не вдалося відправити стікер success: Telegram server says - Bad Request: wrong remote file identifier specified: can't unserialize it
+2025-06-28 01:53:26,794 - aiogram.event - INFO - Update id=658431511 is handled. Duration 893 ms by bot id=7787193570
+2025-06-28 01:53:28,472 - aiogram.event - INFO - Update id=658431512 is handled. Duration 407 ms by bot id=7787193570
+2025-06-28 01:53:34,158 - __main__ - ERROR - Не вдалося відправити стікер accepted: Telegram server says - Bad Request: wrong remote file identifier specified: can't unserialize it
+2025-06-28 01:53:34,297 - aiogram.event - INFO - Update id=658431513 is handled. Duration 477 ms by bot id=7787193570
+2025-06-28 01:53:40,731 - aiogram.event - INFO - Update id=658431514 is handled. Duration 130 ms by bot id=7787193570
+2025-06-28 01:53:51,114 - aiogram.event - INFO - Update id=658431515 is handled. Duration 99 ms by bot id=7787193570
+2025-06-28 01:53:54,426 - aiogram.event - INFO - Update id=658431516 is handled. Duration 102 ms by bot id=7787193570
+2025-06-28 01:53:56,067 - aiogram.event - INFO - Update id=658431517 is handled. Duration 105 ms by bot id=7787193570
+2025-06-28 01:53:57,091 - aiogram.event - INFO - Update id=658431518 is handled. Duration 113 ms by bot id=7787193570
+2025-06-28 01:54:01,923 - aiogram.event - INFO - Update id=658431519 is handled. Duration 139 ms by bot id=7787193570
+2025-06-28 01:55:34,213 - aiogram.event - INFO - Update id=658431520 is handled. Duration 104 ms by bot id=7787193570
+2025-06-28 01:55:35,315 - aiogram.event - INFO - Update id=658431521 is handled. Duration 101 ms by bot id=7787193570
+2025-06-28 01:55:36,802 - aiogram.event - INFO - Update id=658431522 is handled. Duration 389 ms by bot id=7787193570
+2025-06-28 01:55:39,308 - aiogram.event - INFO - Update id=658431523 is handled. Duration 599 ms by bot id=7787193570
+2025-06-28 01:55:41,693 - aiogram.event - INFO - Update id=658431524 is handled. Duration 379 ms by bot id=7787193570
+2025-06-28 01:55:43,078 - aiogram.event - INFO - Update id=658431525 is handled. Duration 314 ms by bot id=7787193570
+2025-06-28 01:55:45,096 - __main__ - ERROR - Не вдалося відправити стікер success: Telegram server says - Bad Request: wrong remote file identifier specified: can't unserialize it
+2025-06-28 01:55:45,394 - aiogram.event - INFO - Update id=658431526 is handled. Duration 880 ms by bot id=7787193570
+2025-06-28 01:55:47,136 - aiogram.event - INFO - Update id=658431527 is handled. Duration 401 ms by bot id=7787193570
+2025-06-28 01:55:49,622 - aiogram.event - INFO - Update id=658431528 is handled. Duration 104 ms by bot id=7787193570
+2025-06-28 01:55:53,945 - aiogram.event - INFO - Update id=658431529 is handled. Duration 238 ms by bot id=7787193570
+2025-06-28 01:55:55,598 - __main__ - ERROR - Помилка підтвердження повторення замовлення: 1 validation error for EditMessageText
+reply_markup
+  Input should be a valid dictionary or instance of InlineKeyboardMarkup [type=model_type, input_value=ReplyKeyboardMarkup(keybo...er=None, selective=None), input_type=ReplyKeyboardMarkup]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+2025-06-28 01:55:55,734 - aiogram.event - INFO - Update id=658431530 is not handled. Duration 325 ms by bot id=7787193570
+2025-06-28 01:55:55,735 - aiogram.event - ERROR - Cause exception while process update id=658431530 by bot id=7787193570
+ValidationError: 1 validation error for EditMessageText
+reply_markup
+  Input should be a valid dictionary or instance of InlineKeyboardMarkup [type=model_type, input_value=ReplyKeyboardMarkup(keybo...er=None, selective=None), input_type=ReplyKeyboardMarkup]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+Traceback (most recent call last):
+  File "C:\Users\Евгений\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Евгений\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\Евгений\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Евгений\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Евгений\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Евгений\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Евгений\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Евгений\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Евгений\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Евгений\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Евгений\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Евгений\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Евгений\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Евгений\Desktop\BOT4\bot.py", line 1509, in confirm_repeat_order
+    await callback.message.edit_text(
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        "❌ Не вдалося повторити замовлення. Спробуйте пізніше.",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        reply_markup=main_menu_kb()
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Евгений\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\types\message.py", line 3634, in edit_text
+    return EditMessageText(
+           ~~~~~~~~~~~~~~~^
+        chat_id=self.chat.id,
+        ^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    ).as_(self._bot)
+    ^
+  File "C:\Users\Евгений\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for EditMessageText
+reply_markup
+  Input should be a valid dictionary or instance of InlineKeyboardMarkup [type=model_type, input_value=ReplyKeyboardMarkup(keybo...er=None, selective=None), input_type=ReplyKeyboardMarkup]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+2025-06-28 01:56:01,958 - aiogram.event - INFO - Update id=658431531 is handled. Duration 105 ms by bot id=7787193570
+2025-06-28 01:56:05,309 - aiogram.event - INFO - Update id=658431532 is handled. Duration 120 ms by bot id=7787193570
+2025-06-28 01:56:07,747 - aiogram.event - INFO - Update id=658431533 is handled. Duration 136 ms by bot id=7787193570
+2025-06-28 01:56:11,248 - aiogram.event - INFO - Update id=658431534 is handled. Duration 103 ms by bot id=7787193570
+2025-06-28 01:56:12,309 - aiogram.event - INFO - Update id=658431535 is handled. Duration 122 ms by bot id=7787193570
+2025-06-28 01:56:15,151 - aiogram.event - INFO - Update id=658431536 is handled. Duration 466 ms by bot id=7787193570
+2025-06-28 01:56:17,278 - aiogram.event - INFO - Update id=658431537 is handled. Duration 554 ms by bot id=7787193570
+2025-06-28 01:56:19,488 - aiogram.event - INFO - Update id=658431538 is handled. Duration 531 ms by bot id=7787193570
+2025-06-28 01:56:21,780 - aiogram.event - INFO - Update id=658431539 is handled. Duration 332 ms by bot id=7787193570
+2025-06-28 01:56:24,392 - __main__ - ERROR - Не вдалося відправити стікер success: Telegram server says - Bad Request: wrong remote file identifier specified: can't unserialize it
+2025-06-28 01:56:24,679 - aiogram.event - INFO - Update id=658431540 is handled. Duration 971 ms by bot id=7787193570
+2025-06-28 01:56:27,195 - aiogram.event - INFO - Update id=658431541 is handled. Duration 106 ms by bot id=7787193570
+2025-06-28 01:56:46,201 - aiogram.event - INFO - Update id=658431542 is handled. Duration 497 ms by bot id=7787193570
+2025-06-28 01:56:49,944 - aiogram.event - INFO - Update id=658431543 is handled. Duration 111 ms by bot id=7787193570
+2025-06-28 01:56:52,997 - aiogram.event - INFO - Update id=658431544 is handled. Duration 143 ms by bot id=7787193570
+2025-06-28 01:56:54,719 - aiogram.event - INFO - Update id=658431545 is handled. Duration 117 ms by bot id=7787193570
+2025-06-28 01:57:03,174 - aiogram.event - INFO - Update id=658431546 is handled. Duration 102 ms by bot id=7787193570
+2025-06-28 01:57:04,340 - aiogram.event - INFO - Update id=658431547 is handled. Duration 226 ms by bot id=7787193570
+2025-06-28 01:57:20,507 - aiogram.event - INFO - Update id=658431548 is handled. Duration 239 ms by bot id=7787193570
+2025-06-28 01:57:24,576 - aiogram.event - INFO - Update id=658431549 is handled. Duration 277 ms by bot id=7787193570
+2025-06-28 01:57:26,477 - aiogram.event - INFO - Update id=658431550 is handled. Duration 107 ms by bot id=7787193570
+2025-06-28 01:57:31,901 - aiogram.event - INFO - Update id=658431551 is handled. Duration 136 ms by bot id=7787193570
+2025-06-28 01:57:33,614 - aiogram.event - INFO - Update id=658431552 is handled. Duration 109 ms by bot id=7787193570
+2025-06-28 01:57:38,423 - aiogram.event - INFO - Update id=658431553 is handled. Duration 102 ms by bot id=7787193570
+2025-06-28 01:57:45,771 - aiogram.event - INFO - Update id=658431554 is handled. Duration 114 ms by bot id=7787193570
+2025-06-28 02:01:04,089 - aiogram.event - INFO - Update id=658431555 is handled. Duration 109 ms by bot id=7787193570
+2025-06-28 02:01:08,232 - aiogram.event - INFO - Update id=658431556 is handled. Duration 109 ms by bot id=7787193570
+2025-06-28 02:01:09,263 - aiogram.event - INFO - Update id=658431557 is handled. Duration 118 ms by bot id=7787193570
+2025-06-28 02:01:10,868 - aiogram.event - INFO - Update id=658431558 is handled. Duration 385 ms by bot id=7787193570
+2025-06-28 02:01:13,361 - aiogram.event - INFO - Update id=658431559 is handled. Duration 580 ms by bot id=7787193570
+2025-06-28 02:01:15,077 - aiogram.event - INFO - Update id=658431560 is handled. Duration 390 ms by bot id=7787193570
+2025-06-28 02:01:16,261 - aiogram.event - INFO - Update id=658431561 is handled. Duration 300 ms by bot id=7787193570
+2025-06-28 02:01:18,336 - __main__ - ERROR - Не вдалося відправити стікер success: Telegram server says - Bad Request: wrong remote file identifier specified: can't unserialize it
+2025-06-28 02:01:18,640 - aiogram.event - INFO - Update id=658431562 is handled. Duration 902 ms by bot id=7787193570
+2025-06-28 02:01:20,337 - aiogram.event - INFO - Update id=658431563 is handled. Duration 393 ms by bot id=7787193570
+2025-06-28 02:01:23,462 - aiogram.event - INFO - Update id=658431564 is handled. Duration 68 ms by bot id=7787193570
+2025-06-28 02:01:27,488 - aiogram.event - INFO - Update id=658431565 is handled. Duration 108 ms by bot id=7787193570
+2025-06-28 02:01:32,142 - aiogram.event - INFO - Update id=658431566 is handled. Duration 131 ms by bot id=7787193570
+2025-06-28 02:01:35,045 - aiogram.event - INFO - Update id=658431567 is handled. Duration 379 ms by bot id=7787193570
+2025-06-28 02:01:41,579 - aiogram.event - INFO - Update id=658431568 is handled. Duration 118 ms by bot id=7787193570
+2025-06-28 02:01:43,498 - aiogram.event - INFO - Update id=658431569 is handled. Duration 107 ms by bot id=7787193570
+2025-06-28 02:01:45,392 - aiogram.event - INFO - Update id=658431570 is handled. Duration 383 ms by bot id=7787193570
+2025-06-28 02:01:47,508 - aiogram.event - INFO - Update id=658431571 is handled. Duration 111 ms by bot id=7787193570
+2025-06-28 02:04:10,292 - aiogram.event - INFO - Update id=658431572 is handled. Duration 534 ms by bot id=7787193570
+2025-06-28 02:04:11,730 - aiogram.event - INFO - Update id=658431573 is handled. Duration 400 ms by bot id=7787193570
+2025-06-28 02:04:12,931 - aiogram.event - INFO - Update id=658431574 is handled. Duration 320 ms by bot id=7787193570
+2025-06-28 02:04:14,807 - __main__ - ERROR - Не вдалося відправити стікер success: Telegram server says - Bad Request: wrong remote file identifier specified: can't unserialize it
+2025-06-28 02:04:15,102 - aiogram.event - INFO - Update id=658431575 is handled. Duration 1023 ms by bot id=7787193570
+2025-06-28 02:04:16,741 - aiogram.event - INFO - Update id=658431576 is handled. Duration 404 ms by bot id=7787193570
+2025-06-28 02:04:20,460 - aiogram.event - INFO - Update id=658431577 is handled. Duration 123 ms by bot id=7787193570
+2025-06-28 02:04:31,194 - aiogram.event - INFO - Update id=658431578 is handled. Duration 123 ms by bot id=7787193570
+2025-06-28 02:04:35,760 - __main__ - ERROR - Помилка використання бонусу: 1 validation error for EditMessageText
+reply_markup
+  Input should be a valid dictionary or instance of InlineKeyboardMarkup [type=model_type, input_value=ReplyKeyboardMarkup(keybo...er=None, selective=None), input_type=ReplyKeyboardMarkup]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+2025-06-28 02:04:35,863 - aiogram.event - INFO - Update id=658431579 is handled. Duration 299 ms by bot id=7787193570
+2025-06-28 02:04:39,015 - aiogram.event - INFO - Update id=658431580 is handled. Duration 318 ms by bot id=7787193570
+2025-06-28 02:16:33,886 - __main__ - INFO - Бот успішно запущений
+2025-06-28 02:16:34,053 - aiogram.dispatcher - INFO - Start polling
+2025-06-28 02:16:34,102 - aiogram.dispatcher - INFO - Run polling for bot @pulsdelivery_la_bot id=7787193570 - 'Pulse Delivery'
+2025-06-28 02:16:48,027 - aiogram.event - INFO - Update id=658431581 is handled. Duration 189 ms by bot id=7787193570
+2025-06-28 02:16:57,282 - aiogram.event - INFO - Update id=658431582 is handled. Duration 74 ms by bot id=7787193570
+2025-06-28 02:16:59,569 - aiogram.event - INFO - Update id=658431583 is handled. Duration 106 ms by bot id=7787193570
+2025-06-28 02:17:04,068 - aiogram.event - INFO - Update id=658431584 is handled. Duration 110 ms by bot id=7787193570
+2025-06-28 02:17:05,989 - aiogram.event - INFO - Update id=658431585 is handled. Duration 111 ms by bot id=7787193570
+2025-06-28 02:17:07,119 - aiogram.event - INFO - Update id=658431586 is handled. Duration 110 ms by bot id=7787193570
+2025-06-28 02:17:09,649 - aiogram.event - INFO - Update id=658431587 is handled. Duration 123 ms by bot id=7787193570
+2025-06-28 02:17:11,853 - aiogram.event - INFO - Update id=658431588 is handled. Duration 257 ms by bot id=7787193570
+2025-06-28 02:17:13,240 - aiogram.event - INFO - Update id=658431589 is handled. Duration 108 ms by bot id=7787193570
+2025-06-28 02:17:14,640 - aiogram.event - INFO - Update id=658431590 is handled. Duration 116 ms by bot id=7787193570
+2025-06-28 02:17:16,908 - aiogram.event - INFO - Update id=658431591 is handled. Duration 110 ms by bot id=7787193570
+2025-06-30 00:03:46,356 - __main__ - INFO - Бот успішно запущений
+2025-06-30 00:03:46,583 - aiogram.dispatcher - INFO - Start polling
+2025-06-30 00:03:46,663 - aiogram.dispatcher - INFO - Run polling for bot @pulsdelivery_la_bot id=7787193570 - 'Pulse Delivery'
+2025-06-30 00:03:55,277 - aiogram.event - INFO - Update id=658431774 is handled. Duration 269 ms by bot id=7787193570
+2025-06-30 00:03:58,623 - aiogram.event - INFO - Update id=658431775 is handled. Duration 117 ms by bot id=7787193570
+2025-06-30 00:04:00,503 - aiogram.event - INFO - Update id=658431776 is handled. Duration 226 ms by bot id=7787193570
+2025-06-30 00:04:04,525 - aiogram.event - INFO - Update id=658431777 is handled. Duration 127 ms by bot id=7787193570
+2025-06-30 00:04:06,975 - aiogram.event - INFO - Update id=658431778 is handled. Duration 107 ms by bot id=7787193570
+2025-06-30 00:04:09,800 - aiogram.event - INFO - Update id=658431779 is handled. Duration 425 ms by bot id=7787193570
+2025-06-30 00:04:12,132 - aiogram.event - INFO - Update id=658431780 is handled. Duration 692 ms by bot id=7787193570
+2025-06-30 00:04:13,620 - aiogram.event - INFO - Update id=658431781 is handled. Duration 407 ms by bot id=7787193570
+2025-06-30 00:04:14,884 - aiogram.event - INFO - Update id=658431782 is handled. Duration 330 ms by bot id=7787193570
+2025-06-30 00:04:17,826 - aiogram.event - INFO - Update id=658431783 is handled. Duration 381 ms by bot id=7787193570
+2025-06-30 00:04:23,192 - aiogram.event - INFO - Update id=658431784 is handled. Duration 372 ms by bot id=7787193570
+2025-06-30 00:04:55,670 - aiogram.event - INFO - Update id=658431785 is not handled. Duration 8 ms by bot id=7787193570
+2025-06-30 00:05:10,038 - aiogram.event - INFO - Update id=658431786 is not handled. Duration 8 ms by bot id=7787193570
+2025-06-30 00:05:48,020 - aiogram.event - INFO - Update id=658431787 is handled. Duration 569 ms by bot id=7787193570
+2025-06-30 01:59:39,477 - __main__ - INFO - Бот успішно запущений
+2025-06-30 01:59:39,645 - aiogram.dispatcher - INFO - Start polling
+2025-06-30 01:59:39,700 - aiogram.dispatcher - INFO - Run polling for bot @pulsdelivery_la_bot id=7787193570 - 'Pulse Delivery'
+2025-06-30 01:59:39,839 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-30 01:59:39,840 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7787193570)
+2025-06-30 01:59:43,934 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-30 01:59:43,934 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7787193570)
+2025-06-30 01:59:45,028 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-30 01:59:45,029 - aiogram.dispatcher - WARNING - Sleep for 1.367882 seconds and try again... (tryings = 1, bot id = 7787193570)
+2025-06-30 01:59:49,494 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-30 01:59:49,495 - aiogram.dispatcher - WARNING - Sleep for 1.398276 seconds and try again... (tryings = 1, bot id = 7787193570)
+2025-06-30 01:59:50,994 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-30 01:59:50,994 - aiogram.dispatcher - WARNING - Sleep for 1.772130 seconds and try again... (tryings = 2, bot id = 7787193570)
+2025-06-30 01:59:55,858 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-30 01:59:55,858 - aiogram.dispatcher - WARNING - Sleep for 1.949387 seconds and try again... (tryings = 2, bot id = 7787193570)
+2025-06-30 01:59:57,905 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-30 01:59:57,905 - aiogram.dispatcher - WARNING - Sleep for 2.215889 seconds and try again... (tryings = 3, bot id = 7787193570)
+2025-06-30 02:00:03,210 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-30 02:00:03,211 - aiogram.dispatcher - WARNING - Sleep for 2.702405 seconds and try again... (tryings = 3, bot id = 7787193570)
+2025-06-30 02:00:06,110 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-30 02:00:06,111 - aiogram.dispatcher - WARNING - Sleep for 2.877775 seconds and try again... (tryings = 4, bot id = 7787193570)
+2025-06-30 02:00:09,079 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-30 02:00:09,080 - aiogram.dispatcher - WARNING - Sleep for 3.622692 seconds and try again... (tryings = 4, bot id = 7787193570)
+2025-06-30 02:00:12,797 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-30 02:00:12,797 - aiogram.dispatcher - WARNING - Sleep for 3.576170 seconds and try again... (tryings = 5, bot id = 7787193570)
+2025-06-30 02:00:16,467 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-30 02:00:16,468 - aiogram.dispatcher - WARNING - Sleep for 4.728365 seconds and try again... (tryings = 5, bot id = 7787193570)
+2025-06-30 02:00:21,293 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-30 02:00:21,294 - aiogram.dispatcher - WARNING - Sleep for 4.642224 seconds and try again... (tryings = 6, bot id = 7787193570)
+2025-06-30 02:00:26,031 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-30 02:00:26,032 - aiogram.dispatcher - WARNING - Sleep for 4.995654 seconds and try again... (tryings = 6, bot id = 7787193570)
+2025-06-30 02:00:31,129 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-30 02:00:31,130 - aiogram.dispatcher - WARNING - Sleep for 5.141921 seconds and try again... (tryings = 7, bot id = 7787193570)
+2025-06-30 02:00:36,362 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-30 02:00:36,363 - aiogram.dispatcher - WARNING - Sleep for 4.986776 seconds and try again... (tryings = 7, bot id = 7787193570)
+2025-06-30 02:00:41,443 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-30 02:00:41,445 - aiogram.dispatcher - WARNING - Sleep for 4.965586 seconds and try again... (tryings = 8, bot id = 7787193570)
+2025-06-30 02:00:46,509 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-30 02:00:46,510 - aiogram.dispatcher - WARNING - Sleep for 4.958119 seconds and try again... (tryings = 8, bot id = 7787193570)
+2025-06-30 02:01:10,648 - __main__ - INFO - Бот успішно запущений
+2025-06-30 02:01:10,823 - aiogram.dispatcher - INFO - Start polling
+2025-06-30 02:01:10,876 - aiogram.dispatcher - INFO - Run polling for bot @pulsdelivery_la_bot id=7787193570 - 'Pulse Delivery'
+2025-06-30 02:01:21,950 - aiogram.event - INFO - Update id=658431788 is handled. Duration 292 ms by bot id=7787193570
+2025-06-30 02:01:24,904 - aiogram.event - INFO - Update id=658431789 is handled. Duration 146 ms by bot id=7787193570
+2025-06-30 02:01:26,673 - aiogram.event - INFO - Update id=658431790 is handled. Duration 117 ms by bot id=7787193570
+2025-06-30 02:01:30,342 - aiogram.event - INFO - Update id=658431791 is handled. Duration 117 ms by bot id=7787193570
+2025-06-30 02:01:34,819 - aiogram.event - INFO - Update id=658431792 is handled. Duration 175 ms by bot id=7787193570
+2025-06-30 02:01:38,327 - aiogram.event - INFO - Update id=658431793 is handled. Duration 421 ms by bot id=7787193570
+2025-06-30 02:01:42,499 - aiogram.event - INFO - Update id=658431794 is handled. Duration 760 ms by bot id=7787193570
+2025-06-30 02:01:43,931 - aiogram.event - INFO - Update id=658431795 is handled. Duration 452 ms by bot id=7787193570
+2025-06-30 02:01:45,378 - aiogram.event - INFO - Update id=658431796 is handled. Duration 334 ms by bot id=7787193570
+2025-06-30 02:01:49,625 - aiogram.event - INFO - Update id=658431797 is handled. Duration 390 ms by bot id=7787193570
+2025-06-30 02:01:53,623 - aiogram.event - INFO - Update id=658431798 is handled. Duration 332 ms by bot id=7787193570
+2025-06-30 02:05:29,496 - __main__ - INFO - Бот успішно запущений
+2025-06-30 02:05:29,667 - aiogram.dispatcher - INFO - Start polling
+2025-06-30 02:05:29,714 - aiogram.dispatcher - INFO - Run polling for bot @pulsdelivery_la_bot id=7787193570 - 'Pulse Delivery'
+2025-06-30 02:05:32,852 - aiogram.event - INFO - Update id=658431799 is handled. Duration 652 ms by bot id=7787193570
+2025-06-30 02:05:34,528 - aiogram.event - INFO - Update id=658431800 is handled. Duration 112 ms by bot id=7787193570
+2025-06-30 02:05:37,723 - aiogram.event - INFO - Update id=658431801 is handled. Duration 111 ms by bot id=7787193570
+2025-06-30 02:05:39,480 - aiogram.event - INFO - Update id=658431802 is handled. Duration 110 ms by bot id=7787193570
+2025-06-30 02:05:43,735 - aiogram.event - INFO - Update id=658431803 is handled. Duration 110 ms by bot id=7787193570
+2025-06-30 02:05:45,073 - aiogram.event - INFO - Update id=658431804 is handled. Duration 138 ms by bot id=7787193570
+2025-06-30 02:05:46,643 - aiogram.event - INFO - Update id=658431805 is handled. Duration 544 ms by bot id=7787193570
+2025-06-30 02:05:49,691 - aiogram.event - INFO - Update id=658431806 is handled. Duration 528 ms by bot id=7787193570
+2025-06-30 02:05:51,718 - aiogram.event - INFO - Update id=658431807 is handled. Duration 390 ms by bot id=7787193570
+2025-06-30 02:05:53,225 - aiogram.event - INFO - Update id=658431808 is handled. Duration 299 ms by bot id=7787193570
+2025-06-30 02:05:54,621 - aiogram.event - INFO - Update id=658431809 is handled. Duration 414 ms by bot id=7787193570
+2025-06-30 02:05:57,934 - __main__ - ERROR - Не знайдено user_id у стані
+2025-06-30 02:05:58,245 - __main__ - ERROR - Помилка відправки промокоду адміну: name 'user_name' is not defined
+2025-06-30 02:05:58,463 - aiogram.event - INFO - Update id=658431810 is handled. Duration 637 ms by bot id=7787193570
+2025-06-30 02:07:46,808 - __main__ - INFO - Бот успішно запущений
+2025-06-30 02:07:46,999 - aiogram.dispatcher - INFO - Start polling
+2025-06-30 02:07:47,049 - aiogram.dispatcher - INFO - Run polling for bot @pulsdelivery_la_bot id=7787193570 - 'Pulse Delivery'
+2025-06-30 02:07:49,671 - aiogram.event - INFO - Update id=658431811 is handled. Duration 193 ms by bot id=7787193570
+2025-06-30 02:07:53,177 - aiogram.event - INFO - Update id=658431812 is handled. Duration 112 ms by bot id=7787193570
+2025-06-30 02:07:55,138 - aiogram.event - INFO - Update id=658431813 is handled. Duration 121 ms by bot id=7787193570
+2025-06-30 02:08:01,261 - aiogram.event - INFO - Update id=658431814 is handled. Duration 114 ms by bot id=7787193570
+2025-06-30 02:08:02,515 - aiogram.event - INFO - Update id=658431815 is handled. Duration 129 ms by bot id=7787193570
+2025-06-30 02:08:04,054 - aiogram.event - INFO - Update id=658431816 is handled. Duration 430 ms by bot id=7787193570
+2025-06-30 02:08:06,179 - aiogram.event - INFO - Update id=658431817 is handled. Duration 577 ms by bot id=7787193570
+2025-06-30 02:08:07,549 - aiogram.event - INFO - Update id=658431818 is handled. Duration 399 ms by bot id=7787193570
+2025-06-30 02:08:09,251 - aiogram.event - INFO - Update id=658431819 is handled. Duration 304 ms by bot id=7787193570
+2025-06-30 02:08:10,459 - aiogram.event - INFO - Update id=658431820 is handled. Duration 414 ms by bot id=7787193570
+2025-06-30 02:08:14,100 - __main__ - ERROR - Не знайдено user_id у стані
+2025-06-30 02:08:14,406 - __main__ - ERROR - Помилка відправки промокоду адміну: name 'user_name' is not defined
+2025-06-30 02:08:14,651 - aiogram.event - INFO - Update id=658431821 is handled. Duration 688 ms by bot id=7787193570
+2025-06-30 02:11:41,466 - aiogram.event - INFO - Update id=658431822 is handled. Duration 409 ms by bot id=7787193570
+2025-06-30 02:11:42,468 - aiogram.event - INFO - Update id=658431823 is handled. Duration 110 ms by bot id=7787193570
+2025-06-30 02:25:17,070 - __main__ - INFO - Бот успішно запущений
+2025-06-30 02:25:17,243 - aiogram.dispatcher - INFO - Start polling
+2025-06-30 02:25:17,291 - aiogram.dispatcher - INFO - Run polling for bot @pulsdelivery_la_bot id=7787193570 - 'Pulse Delivery'
+2025-06-30 02:25:26,556 - aiogram.event - INFO - Update id=658431824 is not handled. Duration 8 ms by bot id=7787193570
+2025-06-30 02:25:38,670 - aiogram.event - INFO - Update id=658431825 is handled. Duration 360 ms by bot id=7787193570
+2025-06-30 02:25:41,955 - aiogram.event - INFO - Update id=658431826 is handled. Duration 320 ms by bot id=7787193570
+2025-06-30 02:25:47,041 - aiogram.event - INFO - Update id=658431827 is handled. Duration 101 ms by bot id=7787193570
+2025-06-30 02:25:48,939 - aiogram.event - INFO - Update id=658431828 is handled. Duration 109 ms by bot id=7787193570
+2025-06-30 02:25:52,922 - aiogram.event - INFO - Update id=658431829 is handled. Duration 104 ms by bot id=7787193570
+2025-06-30 02:25:54,005 - aiogram.event - INFO - Update id=658431830 is handled. Duration 109 ms by bot id=7787193570
+2025-06-30 02:25:55,417 - aiogram.event - INFO - Update id=658431831 is handled. Duration 394 ms by bot id=7787193570
+2025-06-30 02:25:57,959 - aiogram.event - INFO - Update id=658431832 is handled. Duration 567 ms by bot id=7787193570
+2025-06-30 02:25:59,653 - aiogram.event - INFO - Update id=658431833 is handled. Duration 378 ms by bot id=7787193570
+2025-06-30 02:26:00,828 - aiogram.event - INFO - Update id=658431834 is handled. Duration 311 ms by bot id=7787193570
+2025-06-30 02:26:04,965 - aiogram.event - INFO - Update id=658431835 is handled. Duration 470 ms by bot id=7787193570
+2025-06-30 02:28:32,512 - __main__ - INFO - Бот успішно запущений
+2025-06-30 02:28:32,694 - aiogram.dispatcher - INFO - Start polling
+2025-06-30 02:28:32,746 - aiogram.dispatcher - INFO - Run polling for bot @pulsdelivery_la_bot id=7787193570 - 'Pulse Delivery'
+2025-06-30 02:28:38,197 - aiogram.event - INFO - Update id=658431836 is handled. Duration 233 ms by bot id=7787193570
+2025-06-30 02:28:40,963 - aiogram.event - INFO - Update id=658431837 is handled. Duration 108 ms by bot id=7787193570
+2025-06-30 02:28:42,770 - aiogram.event - INFO - Update id=658431838 is handled. Duration 104 ms by bot id=7787193570
+2025-06-30 02:28:46,742 - aiogram.event - INFO - Update id=658431839 is handled. Duration 123 ms by bot id=7787193570
+2025-06-30 02:28:48,002 - aiogram.event - INFO - Update id=658431840 is handled. Duration 108 ms by bot id=7787193570
+2025-06-30 02:28:50,004 - aiogram.event - INFO - Update id=658431841 is handled. Duration 417 ms by bot id=7787193570
+2025-06-30 02:28:52,168 - aiogram.event - INFO - Update id=658431842 is handled. Duration 534 ms by bot id=7787193570
+2025-06-30 02:28:53,786 - aiogram.event - INFO - Update id=658431843 is handled. Duration 419 ms by bot id=7787193570
+2025-06-30 02:28:55,130 - aiogram.event - INFO - Update id=658431844 is handled. Duration 314 ms by bot id=7787193570
+2025-06-30 02:29:57,182 - __main__ - INFO - Бот успішно запущений
+2025-06-30 02:29:57,358 - aiogram.dispatcher - INFO - Start polling
+2025-06-30 02:29:57,409 - aiogram.dispatcher - INFO - Run polling for bot @pulsdelivery_la_bot id=7787193570 - 'Pulse Delivery'
+2025-06-30 02:29:58,237 - aiogram.event - INFO - Update id=658431845 is handled. Duration 677 ms by bot id=7787193570
+2025-06-30 02:30:00,713 - aiogram.event - INFO - Update id=658431846 is handled. Duration 136 ms by bot id=7787193570
+2025-06-30 02:30:04,102 - aiogram.event - INFO - Update id=658431847 is handled. Duration 107 ms by bot id=7787193570
+2025-06-30 02:30:05,957 - aiogram.event - INFO - Update id=658431848 is handled. Duration 152 ms by bot id=7787193570
+2025-06-30 02:30:07,356 - aiogram.event - INFO - Update id=658431849 is handled. Duration 115 ms by bot id=7787193570
+2025-06-30 02:30:12,279 - aiogram.event - INFO - Update id=658431850 is handled. Duration 107 ms by bot id=7787193570
+2025-06-30 02:30:13,485 - aiogram.event - INFO - Update id=658431851 is handled. Duration 132 ms by bot id=7787193570
+2025-06-30 02:30:15,228 - aiogram.event - INFO - Update id=658431852 is handled. Duration 415 ms by bot id=7787193570
+2025-06-30 02:30:19,124 - aiogram.event - INFO - Update id=658431853 is handled. Duration 657 ms by bot id=7787193570
+2025-06-30 02:30:21,769 - aiogram.event - INFO - Update id=658431854 is handled. Duration 386 ms by bot id=7787193570
+2025-06-30 02:30:23,048 - aiogram.event - INFO - Update id=658431855 is handled. Duration 322 ms by bot id=7787193570
